@@ -1,0 +1,8 @@
+{
+    "slashcommand_params": "install, connect, DEMO-123, help",
+    "slashcommand_description": "Interage com o App Jira Server. Digite `/jira-server help` para mais detalhes",
+    "user_alias_label": "Alias de usuário do Jira Server App",
+    "user_alias_description": "O username que será mostrado nas mensagens enviadas pelo App",
+    "user_avatar_label": "Avatar do Jira Server App",
+    "user_avatar_description": "O avatar que será mostrado nas mensagens enviadas pelo App"
+}

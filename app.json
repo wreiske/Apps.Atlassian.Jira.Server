@@ -1,0 +1,15 @@
+{
+    "id": "5a85e557-2e86-4699-b6ba-316d40536e2b",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.3.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Douglas Gubert",
+        "homepage": "https://github.com/d-gubert",
+        "support": "https://twitter.com/d_gubert"
+    },
+    "name": "Jira Server Integration",
+    "nameSlug": "jira-server-integration",
+    "classFile": "JiraServerIntegrationApp.ts",
+    "description": "Integration with Jira Server for Rocket.Chat"
+}

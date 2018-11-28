@@ -1,0 +1,8 @@
+{
+    "slashcommand_params": "install, connect, DEMO-123, help",
+    "slashcommand_description": "Interacts with the Jira Server Integration App. Type `/jira-server help` for more info",
+    "user_alias_label": "Jira Server Integration Username Alias",
+    "user_alias_description": "The username alias that will be shown in the messages sent by this app",
+    "user_avatar_label": "Jira Server Integration Avatar",
+    "user_avatar_description": "The user avatar that will be shown in the messages sent by this app"
+}
