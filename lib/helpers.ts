@@ -26,7 +26,7 @@ export async function startNewMessageWithDefaultSenderConfig(modify: IModify, re
 }
 
 export function parseJiraBaseUrlFromSelfUrl(selfUrl: string): string {
-    return selfUrl.substr(0, selfUrl.indexOf('rest'));
+    return selfUrl.substr(0, selfUrl.indexOf('/rest'));
 }
 
 export async function getUrlAndAuthorization(read: IRead, path: string, method: string = 'GET'): Promise<{ url: string, authorization: string }> {
