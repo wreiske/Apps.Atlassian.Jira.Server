@@ -4,9 +4,9 @@
     "requiredApiVersion": "^1.3.0",
     "iconFile": "icon.png",
     "author": {
-        "name": "Douglas Gubert",
-        "homepage": "https://github.com/d-gubert",
-        "support": "https://twitter.com/d_gubert"
+        "name": "Rocket.Chat",
+        "homepage": "https://rocket.chat",
+        "support": "https://github.com/RocketChat/Apps.Atlassian.Jira.Server"
     },
     "name": "Jira Server Integration",
     "nameSlug": "jira-server-integration",
